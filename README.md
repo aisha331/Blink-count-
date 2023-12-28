@@ -17,4 +17,4 @@ Open and close your eyes to trigger blink detection.
 The script will announce the blink count in real-time.
 
 
-Feel free to test with the code and customize it to suit your possibilities. Adjust the speech charge or explore extra functions to decorate the task similarly.
+##### Feel free to test with the code and customize it to suit your possibilities. Adjust the speech charge or explore extra functions to decorate the task similarly.
